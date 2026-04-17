@@ -156,14 +156,24 @@ npm run dev
 
 ---
 
-## ❤️ Acknowledgements
+💰 Budget Feature (🔥 Highlight)
 
-* Next.js Team
-* Vercel
-* Supabase
-* Google Gemini
+One of the most powerful features of TraceGuard:
 
----
+🧾 Create & Manage Budgets
+Users can set budgets for different categories (e.g., food, travel, shopping)
+📊 Real-Time Budget Tracking
+Track how much is spent vs remaining instantly
+⚠️ Smart Spending Awareness
+Helps users avoid overspending
+Gives a clear financial picture at a glance
+📈 Visual Budget Insights
+Clean UI cards showing:
+Total Budget
+Spent Amount
+Remaining Balance
+
+👉 This makes TraceGuard not just a tracker, but a complete financial management tool
 
 ## 📌 Final Note
 
